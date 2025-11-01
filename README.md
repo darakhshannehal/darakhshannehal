@@ -1,13 +1,20 @@
-## Darakhshan Nehal✨️👋🏽
-**Interests**: Health data science | Open science & Reproducibility | Science commnication | Data Visualization 
+## Darakhshan Nehal ✨️👋🏽
 
-- M.Sc. Biochemistry | Aligarh Muslim University
-  
-- B.Sc. Biochemistry | Aligarh Muslim University
+B.Sc. & M.Sc. in Biochemistry from Aligarh Muslim University, India. 
 
-**Currently learning**: Python, foundations of disease modeling.
+Currently exploring opportunities in **health data science**
 
-Looking for health data science opportunities.
+---
 
-You can reach me via LinkedIn, Bluesky or 📧: darakhshannehal@gmail.com 
+#### Interests  
+Health Data Science · Data Visualization · Open Science & Reproducibility
+
+#### Currently Learning  
+Python · Foundations of Disease Modeling · Spanish
+
+---
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/darakhshannehal) · [Bluesky](https://bsky.app/profile/darakhshannehal.bsky.social) · 📧 darakhshannehal@gmail.com
+
+
 
