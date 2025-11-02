@@ -2,7 +2,7 @@
 
 B.Sc. & M.Sc. in Biochemistry from Aligarh Muslim University, India
 
-Currently exploring opportunities in **health data science**
+Currently exploring opportunities in health data science
 
 ---
 
