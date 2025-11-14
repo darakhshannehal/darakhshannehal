@@ -1,7 +1,5 @@
 ## Darakhshan Nehal ✨️👋🏽
 
----
-
 #### Interests  
 Health Data Science · Data Visualization · Open Science & Reproducibility
 
