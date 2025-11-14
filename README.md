@@ -1,6 +1,6 @@
 ## Darakhshan Nehal ✨️👋🏽
 
-B.Sc. & M.Sc. in Biochemistry from Aligarh Muslim University, India
+B.Sc. & M.Sc. in Biochemistry
 
 Currently exploring opportunities in health data science
 
