@@ -1,10 +1,10 @@
 ## Darakhshan Nehal ✨️👋🏽
 
-#### Interests  
+#### Interest Areas 
 Health Data Science · Data Visualization · Open Science & Reproducibility
 
 #### Currently Learning  
-Python · Foundations of Disease Modeling · Spanish
+Python & SQL · Foundations of Disease Modeling · Spanish
 
 ---
 
